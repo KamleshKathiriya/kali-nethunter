@@ -1,10 +1,7 @@
-# kali-nethunter
-All in one tool for kali Nethunter
-Tool features:-
-1.install kali Nethunter
-2.fix kex all errors
-3.About us
+**HEY GEEK**
+![0001-4445725780_20210717_145225_1](https://user-images.githubusercontent.com/87463226/126032557-9ea824c2-0045-49fb-a92b-c4561e27f85d.png)
 
-Note: please run repair-kex before start start-kex
-
-Thank u!!
+THIS IS ALL IN ONE KALI-NETHUNTER TOOL
+IN THIS TOOL U WILL GET:
+INSTALL NETHUNTER
+NETHUNTER KEX
