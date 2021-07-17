@@ -72,7 +72,7 @@ read -p "ENTER THE NUMBER:" inp1
 #IF USER SELECT TO OPTION REPAIR-KEX
 if  [ "$inp1" = 1 ];
 then
-./repair-kex
+./kex-repair
 
 #IF USER INPUT = 2
 #IF USER SELECT TO OPTION START-KEX
