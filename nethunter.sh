@@ -1,3 +1,4 @@
+clear
 #USING SOME COLORS
 
 red='\033[1;31m'
